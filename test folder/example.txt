@@ -1,0 +1,11 @@
+case 1:
+Fetching trend for: USD to EUR (Jan 2023)
+Case 1: Successfully generated and saved chart: USD_to_EUR_trend.png
+
+case 2:
+Fetching trend for: USD to GBP (Feb 2023)
+Case 2: Successfully generated and saved chart: USD_to_GBP_trend.png
+
+case 3:
+Fetching trend for: USD to JPY (Mar 2023)
+Case 3: Successfully generated and saved chart: USD_to_JPY_trend.png
